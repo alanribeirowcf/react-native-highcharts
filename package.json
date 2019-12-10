@@ -1,0 +1,56 @@
+{
+  "_from": "github:BernaLang/react-native-highcharts",
+  "_id": "react-native-highcharts@1.1.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-highcharts",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "BernaLang/react-native-highcharts",
+    "rawSpec": "BernaLang/react-native-highcharts",
+    "saveSpec": "github:BernaLang/react-native-highcharts",
+    "fetchSpec": null,
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "github:BernaLang/react-native-highcharts#ce3194f13db76c462b07c45f7f06c57c508acd29",
+  "_spec": "BernaLang/react-native-highcharts",
+  "_where": "/Users/alanribeiro/Desktop/userapp-ios-aux",
+  "author": {
+    "name": "Infinity0106"
+  },
+  "bugs": {
+    "url": "https://github.com/TradingPal/react-native-highcharts/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "react-native-webview": "^5.6.2"
+  },
+  "deprecated": false,
+  "description": "JavaScript implementation of a view container that can flip between its front and back, where the back has a console.log and the front is your aplication.",
+  "homepage": "https://github.com/TradingPal/react-native-highcharts#readme",
+  "keywords": [
+    "react-native",
+    "react-component",
+    "ios",
+    "android",
+    "WebView",
+    "HighCharts"
+  ],
+  "license": "MIT",
+  "main": "react-native-highcharts.js",
+  "name": "react-native-highcharts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TradingPal/react-native-highcharts.git"
+  },
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "version": "1.1.0"
+}
